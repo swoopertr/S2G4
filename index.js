@@ -176,6 +176,7 @@ for (let i = 0; i < keys.length; i++) {
 }
 
 
+
 console.log(tekraredensayilar);
 
 /* kodlar buraya */
